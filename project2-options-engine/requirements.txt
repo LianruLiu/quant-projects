@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.6
+yfinance>=1.7  # only needed for fetch_market.py; the demo runs without it
